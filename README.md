@@ -41,7 +41,7 @@ A seção de notícias exibe atualizações recentes e eventos relacionados à p
 A seção de contato oferece um formulário padrão para os clientes entrarem em contato com a pizzaria. O formulário solicita informações como nome completo, endereço de e-mail, número de telefone, região e mensagem, facilitando a comunicação entre os clientes e a equipe da pizzaria.
 
 ## COMO USAR?
-- Para usá-lo, basta apenas executar o arquivo: ./CODIGO/index.html no navegador da sua preferência e navegar pelo site.
+Para usá-lo, basta apenas executar o arquivo: `./CODIGO/index.html` no navegador da sua preferência e navegar pelo site.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
@@ -50,7 +50,7 @@ A seção de contato oferece um formulário padrão para os clientes entrarem em
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## SUBSIDIOS:
-- [PROJETO CRIADO PELO "VictorCMarquesDEV"](https://github.com/VictorCMarquesDEV/site-Fresco)
+- [PROJETO FEITO PELO "VictorCMarquesDEV"](https://github.com/VictorCMarquesDEV/site-Fresco)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
 - [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
