@@ -1,5 +1,5 @@
 # SITE FRESCO 2
-👨‍🏫PROJETO CRIADO PARA O CURSO DE WORDPRESS.
+👨‍🏫PROJETO CRIADO PARA O CURSO DE WORDPRESS DO CURSO EM VIDEO.
 
 <img src="./IMAGENS/1 VIA/FOTO_01.png" align="center" width="500"> <br> 
 <img src="./IMAGENS/1 VIA/FOTO_02.png" align="center" width="500"> <br> 
